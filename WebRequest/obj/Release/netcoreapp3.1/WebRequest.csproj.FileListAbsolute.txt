@@ -1,0 +1,14 @@
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\WebRequest.exe
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\WebRequest.deps.json
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\WebRequest.runtimeconfig.json
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\WebRequest.runtimeconfig.dev.json
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\WebRequest.dll
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\WebRequest.pdb
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\CsvHelper.dll
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\obj\Release\netcoreapp3.1\WebRequest.csprojAssemblyReference.cache
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\obj\Release\netcoreapp3.1\WebRequest.AssemblyInfoInputs.cache
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\obj\Release\netcoreapp3.1\WebRequest.AssemblyInfo.cs
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\obj\Release\netcoreapp3.1\WebRequest.csproj.CopyComplete
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\obj\Release\netcoreapp3.1\WebRequest.dll
+C:\Users\alexandru.badita\source\repos\WebRequest\WebRequest\obj\Release\netcoreapp3.1\WebRequest.pdb
