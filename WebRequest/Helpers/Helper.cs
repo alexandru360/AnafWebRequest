@@ -34,7 +34,7 @@ namespace WebRequest.Helpers
 
 		public static void WriteError(string text)
 		{
-			string path = @"Error.log";
+			string path = Path.Join(Environment.CurrentDirectory, "Error.log");
 			// This text is added only once to the file.
 			if (!File.Exists(path))
 			{
