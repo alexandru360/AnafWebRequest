@@ -1,23 +1,23 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1/win-x64",
+    "name": ".NETCoreApp,Version=v3.1/win-x86",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {},
-    ".NETCoreApp,Version=v3.1/win-x64": {
+    ".NETCoreApp,Version=v3.1/win-x86": {
       "WebRequest/1.0.0": {
         "dependencies": {
           "CsvHelper": "12.2.2",
           "Newtonsoft.Json": "12.0.3",
-          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "3.1.0"
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-x86": "3.1.0"
         },
         "runtime": {
           "WebRequest.dll": {}
         }
       },
-      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/3.1.0": {
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/3.1.0": {
         "runtime": {
           "Microsoft.CSharp.dll": {
             "assemblyVersion": "4.0.5.0",
@@ -677,7 +677,10 @@
           }
         },
         "native": {
-          "Microsoft.DiaSymReader.Native.amd64.dll": {
+          "API-MS-Win-core-xstate-l2-1-0.dll": {
+            "fileVersion": "10.0.17134.12"
+          },
+          "Microsoft.DiaSymReader.Native.x86.dll": {
             "fileVersion": "14.12.25830.2"
           },
           "SOS_README.md": {
@@ -831,7 +834,7 @@
           "mscordaccore.dll": {
             "fileVersion": "4.700.19.56402"
           },
-          "mscordaccore_amd64_amd64_4.700.19.56402.dll": {
+          "mscordaccore_x86_x86_4.700.19.56402.dll": {
             "fileVersion": "4.700.19.56402"
           },
           "mscordbi.dll": {
@@ -878,7 +881,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/3.1.0": {
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/3.1.0": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

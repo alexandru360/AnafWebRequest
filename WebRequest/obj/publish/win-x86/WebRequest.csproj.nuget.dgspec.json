@@ -11,7 +11,7 @@
         "projectName": "WebRequest",
         "projectPath": "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\WebRequest.csproj",
         "packagesPath": "C:\\Users\\alexandru.badita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\obj\\",
+        "outputPath": "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\obj\\publish\\win-x86\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,20 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
