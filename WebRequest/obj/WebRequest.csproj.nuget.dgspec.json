@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexandru.badita\\source\\repos\\WebRequest\\WebRequest\\WebRequest.csproj": {}
+    "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\WebRequest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexandru.badita\\source\\repos\\WebRequest\\WebRequest\\WebRequest.csproj": {
+    "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\WebRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexandru.badita\\source\\repos\\WebRequest\\WebRequest\\WebRequest.csproj",
+        "projectUniqueName": "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\WebRequest.csproj",
         "projectName": "WebRequest",
-        "projectPath": "C:\\Users\\alexandru.badita\\source\\repos\\WebRequest\\WebRequest\\WebRequest.csproj",
+        "projectPath": "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\WebRequest.csproj",
         "packagesPath": "C:\\Users\\alexandru.badita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexandru.badita\\source\\repos\\WebRequest\\WebRequest\\obj\\",
+        "outputPath": "C:\\Users\\alexandru.badita\\source\\repos\\AnafWebRequest\\WebRequest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

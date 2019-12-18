@@ -59,11 +59,11 @@ namespace WebRequest.Helpers
 
 		public static void WriteCsvFile(string fileName, List<Found> records)
 		{
-			string path = $@"{fileName}.csv";
+			string path = $@"{Path.Join(Environment.CurrentDirectory, fileName)}.csv";
 
 			using (var writer = new StreamWriter(path))
 			using (var csv = new CsvWriter(writer))
-			{    
+			{
 				csv.WriteRecords(records);
 			}
 		}

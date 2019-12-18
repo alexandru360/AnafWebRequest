@@ -36,14 +36,16 @@ namespace WebRequest
 					{
 						Console.WriteLine("-c [cui companie]	Interogare ANAF, intoarce detaliile companiei in format json si le stocheaa intr-un fisier csv dupa care le printeaza in consola.");
 						Console.WriteLine(string.Empty);
-						Console.WriteLine("-v[V]	Arata versiunea programului.");
+						Console.WriteLine("-d Current directory.");
+						Console.WriteLine(string.Empty);
+						Console.WriteLine("-v[V]	Arata versiunea curenta a programului.");
 						Console.WriteLine(string.Empty);
 						Console.WriteLine("-help	Acest help printat pe ecran.");
 						return;
 					}
 					if (args.Contains("-v") || args.Contains("-V"))
 					{
-						string ver = Assembly.GetEntryAssembly().GetCustomAttribute<AssemblyFileVersionAttribute>().Version;
+						string ver = Assembly.GetEntryAssembly()?.GetCustomAttribute<AssemblyFileVersionAttribute>().Version;
 						Console.WriteLine(ver);
 						return;
 					}
